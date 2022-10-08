@@ -2,7 +2,7 @@
 #content{
     max-width: 1600px;
     margin: 0 auto;
-    text-align: center;
+    
 }
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
@@ -57,9 +57,9 @@ nav a:hover{
 }
 footer{
  background-color:#2f3822 ;
- color: black;
+ color: rgb(255, 255, 255);
 }
-.icon{
+.icon,.logo{
     width: 80px;
 }
 #hero-img{
@@ -67,7 +67,7 @@ footer{
 }
 footer a{
  text-decoration: none;
- color:black;   
+ color:rgb(255, 255, 255);   
 }
  footer p a:hover {
     font-size: 1.2em;
