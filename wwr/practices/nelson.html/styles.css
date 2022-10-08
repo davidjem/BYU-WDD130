@@ -1,0 +1,17 @@
+img {
+    width: 10%;
+}
+header, main, footer {
+    text-align: center;
+}
+.attribute-list{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: pink;
+}
+.h1,.first-p,.quote-name,.second-p,p{
+   
+  color: white;
+}
