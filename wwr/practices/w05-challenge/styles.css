@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+}
+#hero-img{
+    width: 100%;
+    
+}
+#desk,#graphic,#person{
+    width:20%;
+    padding: 80px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
