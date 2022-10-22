@@ -9,6 +9,7 @@
     text-align: center;
     color:#D8D5DB;
     font-family: "caveat" ;
+    font-size: 3em;
 }
 #hero-msg h4 {
     text-align: center;
@@ -77,11 +78,12 @@ h2{
 .msg h2{
     color:#0F110C;
     font-family: "caveat";
+    font-size: 2.25em;
  
 }
 .msg p{
     color:#0F110C; 
-    font-size: 5em;
+    font-size: 1em;
     padding-bottom: 15px;
 }
 footer{
