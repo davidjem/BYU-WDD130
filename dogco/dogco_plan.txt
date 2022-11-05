@@ -1,0 +1,18 @@
+DOGCO PLAN
+wireframe.cc
+gomockingbird.com 
+
+Homepage: description of the website. include some comments and ratings
+hero. photos with people happy with their dog customes.
+
+1page small dog customes     
+2page medium-size dog customes
+3page big-size dog customes
+
+each page should have a brief suggestion of breeds that may fit the presented 
+costumes. (ideally with a reference graphic on sizes instead a list of breeds)
+
+3 x 3 grid inside each page for costumes list
+
+each custome element will have a picture, short description, rating with stars,
+aveage prices, and "buy me here" button. IMAGES SHOULD BE 1MB OR LESS
