@@ -193,6 +193,52 @@ footer {
 footer .social img{
     padding-top: 15px;
 } 
+/* -------------------------------------------------------------------- */
+#hero-faq{
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-bottom: 30px;
+    margin-top:30px
+}
+#faq-hero-img{
+    width:50%;
+    border-radius: 50%;
+}
+#faq-hero-box{
+    grid-column: 3/3;
+    grid-row:3/3;
+    z-index: -1;
+    
+}
+#faq-hero-msg{
+    grid-column: 1/3;
+    grid-row:3/3;
+}
+#faq-hero-msg h1{
+    text-align: center;
+    color:white;
+    font-family: "caveat" ;
+    font-size: 3em;
+ 
+
+}
+.faq-grid p{
+    text-align: left;
+    padding: 35px;
+    margin:30px;
+    background-color: #1e502367;
+    font-size: 1em;
+    font-family: "Montserrat";
+
+}
+.faq-grid h2{
+    font-family: "caveat";
+    font-size: 2em;
+}
+
+
+/* -------------------------------------------------------------------- */
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
