@@ -208,6 +208,78 @@ nav a{
     grid-row: 10/11;
     grid-column: 3/5;
 }
+#large-quotes{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto;
+    font-family: Inter;
+    font-size: larger;
+}
+#first-lq{
+    grid-row: 1/2;
+    grid-column: 1/5;
+    margin:5px;
+    padding: 25px;
+    margin-bottom: 100px;
+}
+#super-cust{
+    grid-row:2/3;
+    grid-column: 1/2;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+#super-price{
+    grid-row: 2/3;
+    grid-column: 2/4;
+    padding-left: 50px;
+    margin-bottom: 100px;
+}
+#second-lq{
+    grid-row: 3/4;
+    grid-column: 1/5;
+    margin:5px;
+    padding: 25px;
+    margin-bottom: 100px;
+}
+#rambo-cust{
+    grid-row: 4/5;
+    grid-column: 1/2;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+#rambo-price{
+    grid-row: 4/5;
+    grid-column: 2/4;
+    padding-left: 50px;
+    margin-bottom: 100px;
+}
+#third-lq{
+    grid-row: 5/6;
+    grid-column: 1/5;
+    margin:5px;
+    padding: 25px;
+    margin-bottom: 100px;
+}
+#princess-cust{
+    grid-row: 6/7;
+    grid-column: 1/2;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+#princess-price{
+    grid-row: 6/7;
+    grid-column: 2/4;
+    padding-left: 50px;
+    margin-bottom: 100px;
+    
+}
+#fourth-lq{
+    grid-row:7/8;
+    grid-column:1/5;
+    margin:5px;
+    padding: 25px;
+    margin-bottom: 100px;
+}
 /* Style the Image Used to Trigger the Modal */
 #first-img {
 border-radius: 5px;
